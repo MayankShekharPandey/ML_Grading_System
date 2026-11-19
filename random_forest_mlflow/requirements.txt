@@ -1,0 +1,7 @@
+mlflow==3.18.0
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy
+matplotlib
+seaborn
+joblib

@@ -1,0 +1,11 @@
+{
+    "run_id": "158208d374534fb4b284549b93be2707",
+    "run_name": "HMM_States4_Iter15_Prior2.0",
+    "n_components": 4,
+    "n_iter": 15,
+    "smoothing_prior": 2.0,
+    "validation_mae": 2.834656672478366,
+    "validation_accuracy": 0.4843286044209832,
+    "validation_qwk": 0.2806730500334539,
+    "selection_criterion": "Lowest validation MAE; QWK as tie-breaker"
+}
